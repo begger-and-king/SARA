@@ -31,7 +31,7 @@ git clone https://github.com/termuxhackers-id/SARA && cd SARA && bash installter
   - Openjdk 17
 - Aapt
 - Apktool
-  - Apktool 2.6.1
+  - Apktool 2.6.1(maybe)
 - Zipalign
 - Imagemagick
 - Python3
